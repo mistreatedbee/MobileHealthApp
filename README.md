@@ -41,32 +41,6 @@ The app uses a sleek **black-and-white minimalist design** for a clean, professi
 
 ---
 
-## 🧩 Project Structure
-
-```
-
-MobileHealthApp/
-├── app/
-│   ├── (tabs)/
-│   │   └── index.tsx         # Main logic, login/signup screens
-│   ├── _layout.tsx
-│   └── modal.tsx
-├── assets/
-│   ├── icon.png              # Black & white minimalist logo
-│   ├── splash.png            # Splash screen (centered serif text)
-│   └── images/
-├── components/
-│   └── ui/                   # Reusable UI components
-├── constants/
-│   └── theme.ts              # Global color & typography settings
-├── hooks/                    # Custom React hooks
-├── app.json                  # Expo app configuration
-├── package.json              # Dependencies & scripts
-└── README.md                 # Project documentation (this file)
-
-````
-
----
 
 ## ⚙️ Installation & Setup
 
