@@ -53,7 +53,7 @@ The app uses a sleek **black-and-white minimalist design** for a clean, professi
 ### Setup Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<mistreatedbee>/mobile-health.git
+   git clone https://github.com/<mistreatedbee>/mobile-health-app.git
    cd mobile-health
 ````
 
