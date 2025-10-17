@@ -105,8 +105,8 @@ The app uses a sleek **black-and-white minimalist design** for a clean, professi
 **Mobile Health Team**
 
 * Project Owner: Ashley
-* Development: 
-* UI/UX Design: [Designer Name (optional)]
+* Development: I will add your names later
+* UI/UX Design: .....
 
 ---
 
