@@ -134,7 +134,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### 🩺 *"Empowering healthcare through modern mobile technology."*
 
-```
-
-I can add those sections next if you’d like a more “GitHub-ready” presentation.
-```
