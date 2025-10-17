@@ -1,8 +1,7 @@
 # MobileHealthApp
 Final Year Project
-Absolutely ✅ — here’s a **professional, polished README.md** you can copy directly into your GitHub repository for your **Mobile Health** app.
-It’s designed to look modern, readable, and GitHub-friendly — with sections for overview, setup, features, and more.
 
+NB!!! MAKE SURE YOU RUN THE BACKEND PROJECT FIRST BEFORE YOU RUN THE MAIN APP PROJECT FOLDER!!!
 ---
 
 ```markdown
