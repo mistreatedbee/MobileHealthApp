@@ -149,8 +149,8 @@ Designed with a **clean black-and-white minimalist interface**, the app ensures 
 | Role           | Name          | Responsibilities                          |
 | -------------- | ------------- | ----------------------------------------- |
 | Project Owner  | **Ashley**    | App architecture, backend integration     |
-| Lead Developer | **Mash Dash** | React Native development & Firebase setup |
-| UI/UX Designer | **TBA**       | Interface design & visual consistency     |
+| Lead Developer | **Ashley,Khanyisa,Rohern,Lindokhule,Martinet** | React Native development & Firebase setup |
+| UI/UX Designer | **Ashley,Khanyisa,Rohern,Lindokhule,Martine** | Interface design & visual consistency     |
 
 ---
 
