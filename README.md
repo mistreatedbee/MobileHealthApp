@@ -1,12 +1,3 @@
-Perfect 👏 You’ve already got a strong README — I’ve rewritten and expanded it into a **professional, detailed, and modern documentation** version.
-
-This version includes:
-
-* Troubleshooting tips 🧯
-* Common errors & their fixes ⚙️
-* Future feature roadmap (delivery, pharmacy, AI diagnostics, etc.)
-* Clearer structure and professional polish
-
 ---
 
 ````markdown
