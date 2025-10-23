@@ -1,6 +1,6 @@
 ````markdown
-# 🏥 Mobile Health App  
-**Final Year Project**
+🏥 Mobile Health App  
+Final Year Project
 
 > ⚠️ **IMPORTANT:** Always start and keep the **backend server running** before launching this main app project!
 
@@ -8,7 +8,7 @@
 
 ## 💡 Overview
 
-**Mobile Health** is a **cross-platform healthcare management system** built with **React Native (Expo SDK 54)**.  
+Mobile Health is a **cross-platform healthcare management system** built with **React Native (Expo SDK 54)**.  
 It empowers patients, healthcare workers, and administrators to manage appointments, prescriptions, and health records seamlessly.
 
 Designed with a **clean black-and-white minimalist interface**, the app ensures a professional, user-friendly experience while maintaining accessibility and performance.
@@ -18,18 +18,18 @@ Designed with a **clean black-and-white minimalist interface**, the app ensures 
 ## ✨ Core Features
 
 ### 👤 User Management
-- Secure **User Authentication** (Login, Signup)
-- **Role-based access** — Patient, Worker, and Admin dashboards
-- “**Continue as Guest**” mode for limited preview access
+- Secure User Authentication (Login, Signup)
+- Role-based access — Patient, Worker, and Admin dashboards
+- “Continue as Guest” mode for limited preview access
 
 ### 🩺 Healthcare Functions
-- **Book Appointments** with doctors or healthcare workers  
-- **View & Cancel Appointments**
-- **Workers** can issue and manage **prescriptions**
-- **Admins** manage users and roles directly
+- Book Appointments with doctors or healthcare workers  
+- View & Cancel Appointments
+- Workers can issue and manage prescriptions
+- Admins manage users and roles directly
 
 ### 💅 Design & Experience
-- Elegant **black-and-white minimalist UI**
+- Elegant black-and-white minimalist UI
 - Adaptive for Android, iOS, and Web
 - Clear validation, alerts, and clean typography (Serif professional theme)
 - Responsive layout across all devices
