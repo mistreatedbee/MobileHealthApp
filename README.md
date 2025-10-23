@@ -214,7 +214,3 @@ Licensed under the **MIT License** — see [LICENSE](LICENSE) for more informati
 ```
 
 ---
-
-Would you like me to include a **“Backend Setup Section”** inside this same README (with MongoDB, API routes, and environment setup instructions)?  
-It’ll make it one unified guide so anyone can clone and run both backend + frontend together smoothly.
-```
